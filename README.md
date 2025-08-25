@@ -1,6 +1,6 @@
 ## WAZZUP!!! 😆
 
-- 🔭 I’m currently working on a Unity project.
+- 🔭 I’m currently working on a 2D game called BitBound.
 - 🌱 I’m currently learning everything and everything related to C# coding.
 - 👯 I’m looking to collaborate on nothing at the moment, but I'm willing to listen to ideas.
 - 🤔 I’m looking for help with tips and tricks on how to get better with coding.
